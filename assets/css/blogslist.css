@@ -1,0 +1,22 @@
+.bloglist {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.blog {
+  width: 30%;
+  margin-bottom: 20px;
+}
+
+.blog img {
+  width: 100%;
+}
+
+.blog h2 {
+  font-size: 20px;
+}
+
+.blog p {
+  font-size: 16px;
+}
