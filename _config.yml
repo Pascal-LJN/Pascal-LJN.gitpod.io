@@ -1,4 +1,3 @@
 destination: docs
 port: 4001 
 highlighter : pygments
-source: _articles
